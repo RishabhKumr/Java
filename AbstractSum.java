@@ -3,7 +3,7 @@ abstract class Addit
 {
 abstract int getVal();
 }
-class ab extends Addit
+ class ab extends Addit
 {
 int sum;
 int getVal(int a, int b)
